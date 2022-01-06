@@ -1,6 +1,6 @@
-let m = 5;
-while (m < 10) {
-    let z = +prompt('Выберети задание?',)
+//    
+// while (m < 10) {
+    let z = prompt('Выберети задание?',)
     switch (z) {
         case 1: {
             let a = 1;
@@ -56,4 +56,4 @@ while (m < 10) {
             break;
         }
     }
-}
+// xx`}
